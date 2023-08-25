@@ -1,0 +1,65 @@
+[
+    {
+        "key": "menu-1",
+        "parent": null,
+        "type": "pills",
+        "text": "Menu 1 - External Link",
+        "icon": "mdi-format-list-bulleted",
+        "url": "#",
+        "external_link": 1
+    },
+    {
+        "key": "menu-2",
+        "parent": null,
+        "type": "pills",
+        "text": "Menu 2 - External Link",
+        "icon": "mdi-format-list-bulleted",
+        "url": "#",
+        "external_link": 1
+    },
+    {
+        "key": "divider-1",
+        "parent": null,
+        "type": "divider",
+        "text": "",
+        "icon": "",
+        "url": "",
+        "external_link": 0
+    },
+    {
+        "key": "menu-3",
+        "parent": null,
+        "type": "pills",
+        "text": "Menu 3 - Internal Link",
+        "icon": "mdi-format-list-bulleted",
+        "url": "menu-3/",
+        "external_link": 0
+    },
+    {
+        "key": "menu-3-1",
+        "parent": "menu-3",
+        "type": "pills",
+        "text": "On Process",
+        "icon": "mdi-format-list-bulleted",
+        "url": "#",
+        "external_link": 0
+    },
+    {
+        "key": "menu-4",
+        "parent": null,
+        "type": "pills",
+        "text": "Menu 4 - Internal Link",
+        "icon": "mdi-format-list-bulleted",
+        "url": "menu-4",
+        "external_link": 0
+    },
+    {
+        "key": "menu-4-1",
+        "parent": "menu-4",
+        "type": "pills",
+        "text": "Menu 4-1 ",
+        "icon": "mdi-format-list-bulleted",
+        "url": "#",
+        "external_link": 1
+    }
+]

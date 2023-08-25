@@ -1,0 +1,32 @@
+[
+    {
+        "key": "badge-instagram",
+        "icon": "mdi-instagram",
+        "url": "https://www.instagram.com/esahadistra/",
+        "external_link": 1
+    },
+    {
+        "key": "badge-youtube",
+        "icon": "mdi-youtube-play",
+        "url": "https://www.youtube.com/@EsaHadistra",
+        "external_link": 1
+    },
+    {
+        "key": "badge-facebook",
+        "icon": "mdi-facebook",
+        "url": "https://www.facebook.com/zrnvski/",
+        "external_link": 1
+    },
+    {
+        "key": "badge-linkedin",
+        "icon": "mdi-linkedin",
+        "url": "https://www.linkedin.com/in/hadistra/",
+        "external_link": 1
+    },
+    {
+        "key": "badge-web",
+        "icon": "mdi-web",
+        "url": "https://hadistra.site/",
+        "external_link": 1
+    }
+]
